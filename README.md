@@ -1,4 +1,4 @@
-Hi, I'm @UserBoi1
+Hi, I'm @UserBoi1.
 I'm currently working on:
   - A project using GLIF https://github.com/KWARC/GLIF.
 
